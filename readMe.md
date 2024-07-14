@@ -2,7 +2,7 @@
 
 This repository is linked to the article [Onorati and Liseo (2023). *An extension of the Unified Skew-Normal family of distributions and application to Bayesian binary regression*](https://arxiv.org/abs/2209.03474) and provides the code for the R package `pSUN`.
 
-There are also the codes implementing the empirical examples of the article with the results.
+There are also the codes implementing the empirical examples of the article including the execution `*`.Rout files. `*`.RData were excluded for memory space limit.
 
 Notice that the package `pSUN` requires the following dependencies:
 
