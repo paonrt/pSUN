@@ -22,4 +22,4 @@ Furthermore, the following packages are required for obtaining the final results
 * xtable
 * matrixStats
 
-To obtain the figures and tables run <name_of_example>_getResults.R
+To obtain the figures and tables run <name_of_example>_getResults.R after generating the \*.RData files.
